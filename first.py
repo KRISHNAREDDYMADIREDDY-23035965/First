@@ -10,8 +10,3 @@ print(c)
 d=a-b
 print('difference is:',d)
 
-
-
-
-
-9
